@@ -1,2 +1,2 @@
 # git-practice
-Practicing Git commit, branch, and merge workflow.
+This repo is for practicing Git branch A.
